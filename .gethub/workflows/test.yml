@@ -1,5 +1,5 @@
 
-name: Model Training CICD
+name: Model Training mlops
 permissions:
   id-token: write
   contents: write
